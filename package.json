@@ -1,0 +1,24 @@
+{
+  "name": "web-global-im-uikit-quickdemo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rongcloud/engine": "^5.9.1",
+    "@rongcloud/global-im-uikit": "^1.0.0",
+    "@rongcloud/imlib-next": "^5.9.1",
+    "mockjs": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/mockjs": "^1.0.10",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}
