@@ -1,3 +1,8 @@
+> [!WARNING]
+> ⚠️ **暂停维护说明**
+>
+> 该工程已不再维护。
+
 # web-global-im-uikit-quickdemo
 quickdemo 只是做了基础 IM 通信能力和 UI 界面，以便用户了解大致流程，更多详细介绍请参考[官方文档](https://doc.rongcloud.cn/imuikit/Web/1.X/quick_integration)各章节详细说明
 
